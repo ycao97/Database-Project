@@ -3,4 +3,6 @@ My team and I created a relational database that can track information about vid
 
 Included in this repository are:
 
-A SQL script to create the entire database and an EER diagram of the database
+-SQL script to create the entire database
+<br>
+-EER diagram of the database
